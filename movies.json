@@ -1,0 +1,133 @@
+[
+    {
+        "title": "The GodFather",
+        "rating": {
+            "overallRating": 9.2,
+            "userRatings": 2000000 
+        },
+        "year": 1972,
+        "description": "Don Vito Corleone, head of a mafia family, decides to hand over his empire to his youngest son Michael. However, his decision unintentionally puts the lives of his loved ones in grave danger.",
+        "genre": ["crime"],
+        "director": ["Francis Ford Coppola"],
+        "actors": ["Marlon Brando", "Al Pacino", "James Caan"]
+        },
+
+        {
+        "title": "The Lion King",
+        "rating": {
+            "overallRating": 8.5,
+            "userRatings": 1100000 
+        },
+        "year": 1994,
+        "description": "Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself.",
+        "genre": ["animation", "adventure"],
+        "director": ["Roger Allers", "Rob Minkoff"],
+        "actors": ["Matthew Broderick", "Jeremy Irons", "James Earl Jones"]
+        },
+
+        {
+        "title": "American Beauty",
+        "rating": {
+            "overallRating": 8.3,
+            "userRatings": 1200000 
+        },
+        "year": 1999,
+        "description": "A sexually frustrated suburban father has a mid-life crisis after becoming infatuated with his daughter's best friend.",
+        "genre": ["drama"],
+        "director": ["Sam Mendes"],
+        "actors": ["Kevin Spacey", "Annette Bening", "Thora Birch"]
+        },
+
+        {
+        "title": "Barbie",
+        "rating": {
+            "overallRating": 7.1,
+            "userRatings": 335000 
+        },
+        "year": 2023,
+        "description": "Barbie suffers a crisis that leads her to question her world and her existence.",
+        "genre": ["comedy"],
+        "director": ["Greta Gerwing"],
+        "actors": ["Margot Robbie", "Ryan Gosling", "Issa Rae"]
+        },
+
+        {
+        "title": "Sound of Freedom",
+        "rating": {
+            "overallRating": 7.8,
+            "userRatings": 60000 
+        },
+        "year": 2023,
+        "description": "The incredible true story of a former government agent turned vigilante who embarks on a dangerous mission to rescue hundreds of children from traffickers.",
+        "genre": ["action", "biography"],
+        "director": ["Alejandro Monteverde"],
+        "actors": ["Jim Caviezel", "Mira Sorvino", "Bill Camp"]
+        },
+
+        {
+        "title": "The Hunt",
+        "rating": {
+            "overallRating": 8.3,
+            "userRatings": 350000 
+        },
+        "year": 2012,
+        "description": "A teacher lives a lonely life, all the while struggling over his son's custody. His life slowly gets better as he finds love and receives good news from his son, but his new luck is about to be brutally shattered by an innocent little lie.",
+        "genre": ["drama"],
+        "director": ["Thomas Vinterberg"],
+        "actors": ["Mads Mikkelsen", "Thomas Bo Larsen", "Annika Wedderkopp"]
+        },
+
+        {
+        "title": "The Dark Knight",
+        "rating": {
+            "overallRating": 9.0,
+            "userRatings": 1300000 
+        },
+        "year": 2008,
+        "description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+        "genre": ["action"],
+        "director": ["Christopher Nolan"],
+        "actors": ["Christian Bale", "Heath Ledger", "Aaron Eckhart"]
+        },
+
+        {
+        "title": "No Country for Old Men",
+        "rating": {
+            "overallRating": 8.2,
+            "userRatings": 1000000 
+        },
+        "year": 2007,
+        "description": "Violence and mayhem ensue after a hunter stumbles upon a drug deal gone wrong and more than two million dollars in cash near the Rio Grande.",
+        "genre": ["crime"],
+        "director": ["Ethan Coen", "Joel Coen"],
+        "actors": ["Tommy Lee Jones", "Javier Bardem", "Josh Brolin"]
+        },
+
+        {
+        "title": "Harry Potter and the Deathly Hallows: Part 2",
+        "rating": {
+            "overallRating": 8.1,
+            "userRatings": 918000 
+        },
+        "year": 2011,
+        "description": "Harry, Ron, and Hermione search for Voldemort's remaining Horcruxes in their effort to destroy the Dark Lord as the final battle rages on at Hogwarts.",
+        "genre": ["adventure", "family"],
+        "director": ["David Yates"],
+        "actors": ["Daniel Radcliffe", "Emma Watson", "Rupert Grint"]
+        },
+
+        {
+        "title": "Into the Wild",
+        "rating": {
+            "overallRating": 8.1,
+            "userRatings": 614000 
+        },
+        "year": 2007,
+        "description": "After graduating from Emory University, top student and athlete Christopher McCandless abandons his possessions, gives his entire $24,000 savings account to charity and hitchhikes to Alaska to live in the wilderness. Along the way, Christopher encounters a series of characters that shape his life.",
+        "genre": ["adventure", "biography", "drama"],
+        "director": ["Sean Penn"],
+        "actors": ["Emile Hirsch", "Vince Vaughn", "Catherine Keener"]
+        }
+    ]
+
+
