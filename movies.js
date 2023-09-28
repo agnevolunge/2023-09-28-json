@@ -1,4 +1,5 @@
 let mainContainer = document.querySelector("#container");
+
 let pageTitle = document.createElement("h1");
 pageTitle.textContent = "Movies";
 mainContainer.append(pageTitle);
@@ -12,7 +13,7 @@ function getMovies() {
         
         movies.forEach((movie) => {
           console.log(movie);
-          
+
           let title = movie.title;
           let rating = movie.rating.overallRating;
           let userRatings = movie.rating.userRatings;
